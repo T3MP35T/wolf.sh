@@ -1,4 +1,4 @@
-# wolf.sh
+# SY4HR1LG4NT3N6
 Xxx
 #!/bin/bash
 #version 1.0
